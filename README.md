@@ -1,5 +1,7 @@
 # lexyclaw-agent
 
+Hello world!
+
 To install dependencies:
 
 ```bash
